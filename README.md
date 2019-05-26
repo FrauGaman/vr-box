@@ -2,6 +2,7 @@
 Website from the end of 2017
 
 active link to website: http://vr-box.gamanm.ru/
+(https://fraugaman.github.io/vr-box/)
 
 Here used:
 - JS(ES5),
